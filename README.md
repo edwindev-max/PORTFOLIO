@@ -1,7 +1,5 @@
 # PORTFOLIO
 
-
-
     Hi, I'm Edwin Reinoso
 
     Senior Software Engineer and Technical Lead with more than 14 years of experience in banking systems, ERP integrations, data automation, and secure backend development. I work mainly with C#, .NET, Java, SQL Server, SSIS, AS/400 (IBM i), and file-based banking formats.
